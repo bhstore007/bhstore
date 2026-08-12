@@ -1,2 +1,15 @@
-# bhstore
-Environmental conservation refers to the actions and practices aimed at protecting nature from pollution, degradation, and excessive exploitation. Its purpose is to maintain clean air, safe water, and healthy soil so that future generations can enjoy a stable and sustainable planet. This concept covers many areas, including reducing waste
+environmental-conservation/
+│
+├── README.md
+├── src/
+│   ├── pollution/
+│   │   └── pollution-overview.md
+│   ├── climate-change/
+│   │   └── climate-change-basics.md
+│   ├── solutions/
+│   │   └── eco-solutions.md
+│   └── data/
+│       └── global-stats.json
+│
+└── assets/
+    └── images/
